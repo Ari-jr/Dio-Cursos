@@ -65,7 +65,12 @@ Estrutura de projeto
 É interessante criar pastas para organizar seu projeto.
 Criar a pasta assets - básicamento são as ferramentas utilizada no projeto que não são html, nesta pasta inserimos imagens, css, js ....
 
-		   
+-------------- Aula 5: Atividade Prática -----------------------
+criando um contador
+
+-------------- Aula 6: Mercado de Trabalho -----------------------
+ Frameworks e bibliotecas
+ 
 
 
 
