@@ -1,0 +1,102 @@
+Curso: Introdução ao JavaScript
+Instrudora: Stephany Nusch
+
+Objetivo do Curso: 
+Entender o que é JavaScript, suas aplicações na vida real e conhecer o mercado de trabalho.
+
+percurso:
+Aula 1 -  O que é javascript?
+Aula 2  - Recursos básicos da linguagem
+Aula 3 - Console
+Aula 4 - Javascript numa página da web
+Aula 5 - Atividade Prática
+Aula 6 - Frameworks e mercado de trabalho
+
+
+-------------- Aula 1: O que é JavaScript? -----------------------
+história
+. Interpretada
+. Baseada em protótipos
+. Multiparadigma
+. Comumente utilizada em aplicações web client-side
+. Segue o padrão ECMAScript
+
+Evolução
+1995 foi criada o JavaScript
+1997 Primeira Edição da ECMAScript 1
+1998 ECMAScript 2
+1999 ECMAScript 3 e ECMAScript 4
+2009 ECMAScript 5
+2015 ECMAScript 6
+
+Aplicações
+. Web
+. Mobile
+. Smartwatches
+. Games
+. Internet of Things
+. APIs
+
+
+-------------- Aula 2: Recursos básicos da linguagem -----------------------
+Manipulando um arquivo JavaScript
+Comentário inline - //
+Atalho VS - Ctrl + /
+
+Comentário em bloco - /*...*/
+
+Ao declarar uma constante utilizar letras maiúsculas
+
+Funções
+exemplo: function soma(a, b) {
+		return a + b; // 8
+	    }
+	    
+	    soma(3, 5);
+
+
+-------------- Aula 3: Console -----------------------	
+Foi utilizando o node js, onde foi executado um exemplo que mostraria apenas os números pares que estaria dentro de um array
+
+para executar o arquivo no terminal foi utilizado o comando "node nomedoarquivo.js"
+	   
+-------------- Aula 4: JavaScript na Web -----------------------
+Estrutura de projeto
+É interessante criar pastas para organizar seu projeto.
+Criar a pasta assets - básicamento são as ferramentas utilizada no projeto que não são html, nesta pasta inserimos imagens, css, js ....
+
+		   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
