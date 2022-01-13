@@ -1,0 +1,13 @@
+Curso: Sintaxe básica em JavaScript
+Instrutora: Diana Martine
+
+Percurso:
+Aula 1 - Que danado é JavaScript?
+Aula 2 - Entendendo variáveis e seus valores;
+Aula 3 - Vetores e Objetos;
+Aula 4 - Estrutura condicionais - decisão e repetição/iteração
+Aula 5 - Funções e suas particularidades;
+Aula 6 - Aprofundando em funções;
+
+------------- Aula 1 - Que danado é JavaScript? --------------
+
