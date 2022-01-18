@@ -1,0 +1,65 @@
+Curso Variáveis e Tipos em JavaScript
+Instrutora - Stephany Nusch
+
+Objetivo do curso
+Explicar as principais estruturas de dados do JavaScript, como utilizá-las e suas possibilidades.
+
+---------- Aula 1 - Atribuindo Valores -------------
+Variáveis declarada em camelCase
+Constantes declarada em SNAKE_UPPER_CASE
+
+
+---------- Aula 2 - Tipos -------------
+Apresentar as principais estruturas de dados do javaScript e seus principais métodos.
+
+Tipos Primitivos
+*Strings - Valores declarados entre aspas ou crases
+
+*Numbers
+*Booleans
+
+Tipos não-primitivos
+*Arrays
+*Objetos
+
+---------- Aula 3 - Atividade Prática -------------
+*Atividade 1
+
+Verificador Palíndromo
+
+Palíndromo -> "Frase ou palavra que se ler, indiferentemente, da esquerda para a direita ou vice-versa."
+Ex.: ROMA TE TEM AMOR
+
+Verifique, de duas maneiras diferentes entre si, se uma String é um palíndromo.
+
+
+*Atividade 2
+Troque todos os elementos pares e diferentes de zero de um array pelo número 0. Se o array for vazio, retorne -1.
+
+Exemplo: Input -> [1, 3, 4, 6, 80, 33, 23, 90]
+
+Output -> [1, 3, 0, 0, 0, 33, 23, 0]
+
+Input -> []
+
+Output -> -1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
